@@ -2,3 +2,6 @@
 node_modules/
 dist/
 coverage/
+Alpha-UnitTest.code-workspace
+__tests__/sumOfArithmeticProgression.test.ts
+src/sumOfArithmeticProgression.ts
