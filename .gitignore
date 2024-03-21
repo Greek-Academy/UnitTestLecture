@@ -5,3 +5,7 @@ coverage/
 Alpha-UnitTest.code-workspace
 __tests__/sumOfArithmeticProgression.test.ts
 src/sumOfArithmeticProgression.ts
+
+src/easy/__tests__result/
+src/TDD/__tests__result/
+src/useMock/__tests__result/
